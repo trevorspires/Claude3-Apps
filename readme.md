@@ -1,0 +1,1 @@
+This app is an example of using claude's multi-modal features to analyze images and extract image taxonomy data
